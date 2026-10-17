@@ -1,0 +1,6 @@
+{
+  "name": "চা ও মোবাইল ব্যাংকিং হিসাব খাতা (Dokan Hisab Khata)",
+  "description": "চা স্টল, ফ্লেক্সিলোড ও মোবাইল ব্যাংকিং (বিকাশ/নগদ) ব্যবসার জন্য ২ অংশীদারের দৈনিক আয়, ব্যয়, ক্যাশ ও বাকির ডিজিটাল খাতা।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
